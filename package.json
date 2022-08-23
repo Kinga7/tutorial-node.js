@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Kinga7/tutorial-node.js#readme",
   "dependencies": {
+    "bootstrap": "^5.2.0",
     "lodash": "^4.17.21"
   }
 }
